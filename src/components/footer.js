@@ -46,7 +46,7 @@ const style = {
           <a href="https://github.com/DanialDevelops" target="_blank" rel="noopener noreferrer">
             <img src={GitHubLogo} alt="GitHub" style={style.logo} />
           </a>
-          <a href="https://www.linkedin.com/in/danial-choudhry-45a598270/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/danial-choudhry-26031b233/" target="_blank" rel="noopener noreferrer">
             <img src={LinkedInLogo} alt="LinkedIn" style={style.logo} />
           </a>
         </div>
